@@ -1,7 +1,7 @@
 ## AI Policy Document: Employee Guidelines for Cloud-Hosted AI Tools
 
 ### 1. Introduction
-- This AI policy outlines our organization's guidelines for employees who want to use cloud-hosted AI tools and services, such as ChatGPT, ChatSeed, Midjourney, and Anthropic's Web Service (AI Services). We intend to take a risk based approach to the use and governance of AI and related systems. Employees must understand how and when to use these tools responsibly to avoid any misuse or violations of this policy.
+- This AI policy outlines our organization's guidelines for employees engaging in the use and development of AI tools and services, in specific those which are hosted outside Sysmex America, Inc. such as OpenAI, Midjourney,  (AI Services). We intend to take a risk based approach to the use and governance of AI and related systems. Employees must understand how and when to use these tools responsibly to avoid any misuse or violations of this policy.
 
 ### 2. Definitions
 - AI Services: 
@@ -12,15 +12,17 @@ company or third-party proprietary or confidential information, any personal inf
 
 ### 3. General Usage Guidelines for AI Tools
 
-- Employees may use AI tools for educational and research purposes. Employees are expected to understand how these services collect and use any Data provided to the service, subject to the limitations stated below.
+- All assoicates and teams are approved to use AI Services for educational, research, experimental, and testing purposes, provided that no Data which could reasonably be considered sensitive or proprietary in nature is used as input without security controls and a clear, written privacy statement or, where appropriate, signed agreement.
 
-- All assoicates and teams are approved to use AI Services for experimental and testing purposes, provided that you do not use any  Data which should reasonably be considered classified as sensitive or proprietary in nature as input without a clear, written privacy statement or, where appropriate, signed agreement.
+- Employees are expected to understand how these services collect and use any Data provided to the service and to take appropriate measures to identify, evaluate, and mitigate risks.
+- Employees should implement and use AI Services as intended. Emplyees are expected to monitor and guard against miuse or inappropriate use, vulnerabilities, and emerging risks, and to take appropriate actions to address these. Employees are expected to document and report identified risk and vulnerabilities and their respective mitigations. 
 
-- To use any third-party generative services with sensitive, confidential or proorpietary data, the vendor must be approved for use accordance with our third-party approval process including IT and Information Security review.
+- To use any third-party generative services with sensitive, confidential or proorpietary data, the vendor must be approved for use accordance with our vendor process including IT and Information Security review.
 
 --- If you work on large language models (LLMs) as part of your job, do not test any third-party generative AI service to assess how it handles certain types of inputs/requests or how its behavior differs from other LLMs.
 
 --- Do not provide any feedback to any third-party service provider without receiving specific authorization from the company's legal and corporate architecture.
+
 - Employees should not use AI Services in ways which undermine or present harm to individuals, the business, partners, or customers, or which enable criminal misuse, or pose substantial risks to safety and security.
 
 ### 4. ChatGPT, Midjourney, Anthropic's Web Service, and Other Third-Party Generative AI Services Restrictions
