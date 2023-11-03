@@ -21,6 +21,7 @@ company or third-party proprietary or confidential information, any personal inf
 --- If you work on large language models (LLMs) as part of your job, do not test any third-party generative AI service to assess how it handles certain types of inputs/requests or how its behavior differs from other LLMs.
 
 --- Do not provide any feedback to any third-party service provider without receiving specific authorization from the company's legal and corporate architecture.
+- Employees should not use AI Services in ways which undermine or present harm to individuals, the business, partners, or customers, or which enable criminal misuse, or pose substantial risks to safety and security.
 
 ### 4. ChatGPT, Midjourney, Anthropic's Web Service, and Other Third-Party Generative AI Services Restrictions
 
