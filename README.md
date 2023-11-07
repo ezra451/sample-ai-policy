@@ -1,7 +1,7 @@
 ## AI Policy Document: Employee Guidelines for Cloud-Hosted AI Tools
 
 ### 1. Introduction
-- This AI policy outlines our organization's guidelines for employees engaging in the use and development of AI tools and services, in specific those which are hosted outside Sysmex America, Inc. such as OpenAI, Midjourney,  (AI Services). We intend to take a risk based approach to the use and governance of AI and related systems. Employees must understand how and when to use these tools responsibly to avoid any misuse or violations of this policy.
+- This AI policy outlines our organization's guidelines for employees engaging in the use and development of AI tools and services, in specific those which are hosted outside [Company] such as OpenAI, Midjourney, and Anthropic (AI Services). [Company] intends to take a risk based approach to the use and governance of AI and related systems. [Company] is committed to protecting our employees, partners, and customers from damaging or illegal actions perpetrated either knowingly or unknowingly. Effective security is the responsibility of all employees, contractors, consultants, temporary and other workers at [Company] who work with such tools and services. Employees must understand how and when to use these tools responsibly to avoid any misuse or violations of this policy.
 
 ### 2. Definitions
 - AI Services: 
